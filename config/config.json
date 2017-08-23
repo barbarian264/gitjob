@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "jbarbarian",
+    "password": "Jxbox*500",
+    "database": "gitjob",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "server",
+    "database": "blogger_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "server",
+    "database": "blogger_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
